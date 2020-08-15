@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile!
+
+By the way, I'm Micah, a self-thought software developer primarily with NodeJS and Flutter. It might be of your interest to know that I'm a realist,LOL and when I'm not coding I'd probably be sleeping or... I don't know what else.
 
 <!--
 **Megxos/Megxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
