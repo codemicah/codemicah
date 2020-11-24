@@ -1,20 +1,18 @@
 ### Hi there 👋 Welcome to my profile!
-
-By the way, I'm Micah, a Self-taught software developer primarily with NodeJS and Flutter. It might be of your interest to know that I'm a realist,LOL and when I'm not coding I'd probably be sleeping or... I don't know what else.
-
+I am passionate about building solutions to the simple problems people face on a daily basis.
 <!--
-**Megxos/Megxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Megxos/Megxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a lotta things
+- 🌱 I’m currently learning mobile development
+- 👯 I’m looking to collaborate on the next big thing
+- 🤔 I’m looking for help with getting a job
+- 💬 Ask me about myself
+- 📫 How to reach me: melijah200@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love pop, rock and roll music
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=Megxos&langs_count=6&hide=css,html&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megxos&langs_count=6&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
