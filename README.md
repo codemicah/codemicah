@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my profile!
+### Hi there 👋 I'm Micah,
 I am passionate about building solutions to the simple problems people face on a daily basis.
 <!--
 **Megxos/Megxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
