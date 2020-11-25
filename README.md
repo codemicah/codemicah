@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love pop, rock and roll music
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=Megxos&langs_count=6&hide=css,html&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megxos&langs_count=6&show_icons=true&count_private=true&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megxos&langs_count=6&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
