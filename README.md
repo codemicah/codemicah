@@ -6,7 +6,7 @@ I am passionate about building solutions to the simple problems people face on a
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a lotta things
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m currently learning mobile development with @flutter
 - 👯 I’m looking to collaborate on the next big thing
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about myself
