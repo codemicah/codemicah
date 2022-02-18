@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love pop, rock and roll music
 
-[![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemicah&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Micah's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemicah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=codemicah&langs_count=6&hide=css,html&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemicah&langs_count=2&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
