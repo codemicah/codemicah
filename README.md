@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=codemicah&langs_count=6&hide=css,html&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://codemicah-readme-stats.vercel.app/api/top-langs/?username=codemicah&langs_count=3&show_icons=true&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+![Trophy](https://github-profile-trophy.vercel.app/?username=codemicah)
