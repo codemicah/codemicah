@@ -16,7 +16,7 @@ I have given talks to a wide range of crowd including tech experts and enthusias
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a lotta things
-- 🌱 I’m currently building [mainstack.co](https://mainstack.co) 
+- 🌱 I’m currently contributing to financial solutions at [The Tonic Technologies](https://thetonictech.com) 
 - 👯 I’m looking to collaborate on the next big thing
 - 📫 How to reach me: melijah200@gmail.com
 - 😄 Pronouns: He/Him
