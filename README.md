@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love pop music
   
-[![Micah's GitHub stats](https://codemicah-readme-stats.vercel.app/api?username=codemicah&count_private=true&show_icons=true&theme=transparent)](https://codemicah-readme-stats.vercel.app/api?username=codemicah&count_private=true&show_icons=true&theme=transparent)
+[![Micah's GitHub stats](https://github-stats-extended.vercel.app/api?username=codemicah&count_private=true&show_icons=true&theme=transparent)]([https://codemicah-readme-stats.vercel.app](https://github-stats-extended.vercel.app)/api?username=codemicah&count_private=true&show_icons=true&theme=transparent)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=codemicah&langs_count=6&hide=css,html&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://codemicah-readme-stats.vercel.app/api/top-langs/?username=codemicah&langs_count=3&show_icons=true&count_private=true&theme=transparent)](https://codemicah-readme-stats.vercel.app/api/top-langs/?username=codemicah&langs_count=3&show_icons=true&count_private=true&theme=transparent)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=codemicah&langs_count=3&show_icons=true&count_private=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs/?username=codemicah&langs_count=3&show_icons=true&count_private=true&theme=transparent)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=codemicah)
